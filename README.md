@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Uday124/Uday124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)](https://www.youtube.com/@ms.poonamchauhan743)
@@ -48,3 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .....
 
 -->
+
